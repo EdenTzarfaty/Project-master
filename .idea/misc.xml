@@ -6,9 +6,10 @@
       <list>
         <option value="$PROJECT_DIR$/APIGateway/pom.xml" />
         <option value="$PROJECT_DIR$/ServiceDiscovery/ServiceDiscovery/pom.xml" />
-        <option value="$PROJECT_DIR$/HealthMicroservice/pom.xml" />
-        <option value="$PROJECT_DIR$/PopulationMicroservice/pom.xml" />
         <option value="$PROJECT_DIR$/ServiceDiscovery-EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/ServiceDiscovery/pom.xml" />
+        <option value="$PROJECT_DIR$/PopulationMicroservice/pom.xml" />
+        <option value="$PROJECT_DIR$/HealthMicroservice/pom.xml" />
       </list>
     </option>
   </component>
